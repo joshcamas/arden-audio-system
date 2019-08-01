@@ -1,5 +1,5 @@
 # arden-audio-system
-Sound manager with pooling, volumes, playlists, sound materials, and more for Unity
+Sound manager with pooling, volumes, playlists, sound materials, and more for Unity. Currently incomplete.
 
 ## Features
 
